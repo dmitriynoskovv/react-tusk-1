@@ -1,0 +1,15 @@
+.btn {
+  border: none;
+  padding: 10px 12px 10px 32px;
+  display: flex;
+  align-items: center;
+  border-radius: 36px;
+  background: linear-gradient(0deg, #130999 -0.01%, #174D8F 35.01%, #1A7F87 64.91%, #1C9E83 87.44%, #1DAA81 99.99%);
+
+  text-transform: uppercase;
+  font-family: $font-roboto;
+  color: getColor('white');
+  font-weight: 500;
+  font-size: 18px;
+  cursor: pointer;
+}

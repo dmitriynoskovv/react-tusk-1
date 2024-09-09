@@ -1,0 +1,11 @@
+@import 'utils/breakpoints';
+@import 'utils/variables';
+@import 'utils/svg-icons';
+
+@import 'global/global-styles';
+
+@import 'global/buttons';
+@import 'global/arrow';
+
+// Main
+@import 'pages/main/main-page';
